@@ -1,0 +1,97 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin-top: 2rem;
+}
+
+button.coolstuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+
+} 
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+/* video section */
+.videos-fluid {
+    background-color: red;
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.video {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.text {
+    color: white;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: large;
+    font-weight: 200;
+}
+
+.sectionRed {
+    background-color: red;
+    padding: 2em;
+}
+
+.sectionBlack {
+    background-color: rgb(46, 44, 44);
+    padding: 2em;
+}
+
+/*section photos */
+.sectionPhotos {
+    background: linear-gradient(to right, yellow, blue);
+
+}
+.sectionBlue {
+    background: linear-gradient(to right, blue, yellow);
+}
+
+.sectionPants {
+    background-color: rgb(49, 47, 47);
+}
+
+
+
+
+
